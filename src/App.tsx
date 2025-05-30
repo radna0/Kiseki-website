@@ -225,11 +225,11 @@ function App() {
                   </div>
                   <div className="flex items-center gap-2 text-gray-600 dark:text-gray-300">
                     <span className="w-2 h-2 bg-primary-500 rounded-full"></span>
-                    <span>Photoshop Plugin (Coming Soon)</span>
+                    <span>Adobe Animate Plugin (Coming Soon)</span>
                   </div>
                   <div className="flex items-center gap-2 text-gray-600 dark:text-gray-300">
                     <span className="w-2 h-2 bg-primary-500 rounded-full"></span>
-                    <span>And more!</span>
+                    <span>Toon Boom Harmony And More..!</span>
                   </div>
                 </div>
               </div>
