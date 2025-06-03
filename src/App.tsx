@@ -123,19 +123,19 @@ function App() {
             variants={fadeIn}
           >
             <div className="relative group overflow-hidden rounded-lg">
-              <img src={baka_line} alt="Line Art" className="w-full rounded-lg shadow-lg transition-transform duration-300 group-hover:scale-105" />
+              <img src="https://raw.githubusercontent.com/radna0/Kiseki/refs/heads/master/assets/baka_line.gif" alt="Line Art" className="w-full rounded-lg shadow-lg transition-transform duration-300 group-hover:scale-105" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent flex items-end justify-center p-4 opacity-0 group-hover:opacity-100 transition-opacity">
                 <span className="text-white font-semibold">Line Art</span>
               </div>
             </div>
             <div className="relative group overflow-hidden rounded-lg">
-              <img src={baka_ref} alt="Reference" className="w-full rounded-lg shadow-lg transition-transform duration-300 group-hover:scale-105" />
+              <img src="https://raw.githubusercontent.com/radna0/Kiseki/refs/heads/master/assets/baka_ref.png" alt="Reference" className="w-full rounded-lg shadow-lg transition-transform duration-300 group-hover:scale-105" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent flex items-end justify-center p-4 opacity-0 group-hover:opacity-100 transition-opacity">
                 <span className="text-white font-semibold">Reference</span>
               </div>
             </div>
             <div className="relative group overflow-hidden rounded-lg">
-              <img src={baka} alt="Result" className="w-full rounded-lg shadow-lg transition-transform duration-300 group-hover:scale-105" />
+              <img src="https://raw.githubusercontent.com/radna0/Kiseki/refs/heads/master/assets/baka.gif" alt="Result" className="w-full rounded-lg shadow-lg transition-transform duration-300 group-hover:scale-105" />
               <div className="absolute inset-0 bg-gradient-to-t from-black/50 to-transparent flex items-end justify-center p-4 opacity-0 group-hover:opacity-100 transition-opacity">
                 <span className="text-white font-semibold">Result</span>
               </div>
